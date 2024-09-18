@@ -260,7 +260,7 @@ nav h3 {
 }
 
 #moving-text h1 {
-    font-size: 9vw;
+    font-size: 4vw;
     /* background-color: lightblue; */
     display: inline-block;
 }
@@ -271,6 +271,7 @@ nav h3 {
     border-radius: 50%;
     display: inline-block;
     background-color: #FE320A;
+    height: 20px;
     margin: 1vw 2vw;
 }
 
