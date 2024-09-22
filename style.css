@@ -742,8 +742,21 @@ color:black;
    #center #right h1 {
       font-size: 50px;
    }
-}
+
 a{
  text-decoration: none;
 color:black;
 }
+  #center #right h1 {
+      font-size: 50px;
+   }
+   #full-div{
+      font-size: 20px; 
+   }
+   #full-scr{
+    height: 30vh;
+   }
+   #full-div1 h3 a{
+    text-decoration: none;
+    color: black;
+   } }
